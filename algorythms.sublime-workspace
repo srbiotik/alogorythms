@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qu",
+				"quantum_dict"
+			],
+			[
+				"per",
+				"permutations"
+			],
+			[
+				"permu",
+				"permutation"
+			],
+			[
+				"en",
+				"entangle_letters"
+			],
+			[
+				"perm",
+				"permutations"
+			],
+			[
+				"is",
+				"isalpha"
+			],
+			[
+				"rea",
+				"reader"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bubble_sort.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyhon",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"start",
+				"Debugger: Start"
+			],
+			[
+				"debu",
+				"Debugger: Start"
+			],
+			[
+				"deb",
+				"Debugger: Install Adapters"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"reload",
+				"Anaconda: Vagrant Reload"
+			],
+			[
+				"rain",
+				"Rainbow CSV: Run RBQL query"
+			],
+			[
+				"rai",
+				"Set Syntax: Rainbow CSV , Simple"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/migrujic/dev/cs/algorythms",
+		"/Users/migrujic/dev/cs/algorythms/algorythms",
+		"/Users/migrujic/dev/cs/algorythms/algorythms/search_and_sort"
+	],
+	"file_history":
+	[
+		"/Users/migrujic/Downloads/widgets-basics-assignment-problem/pubspec.yaml",
+		"/var/folders/cm/x49k08x55_1dzmk1k88lbrvc0000gn/T/raw_data-2.csv.csv",
+		"/Volumes/0000_Odrzavanje/TXTR/Archive/texture_mapping_FINAL.xml"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bubble_sort.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"rainbow_checked": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 283.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 120.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "algorythms.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 394.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
